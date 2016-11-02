@@ -1,0 +1,73 @@
+header{
+    
+    background-color:black;
+    color: white;
+    padding:15px;
+    text-align:center;
+    font-family:verdana;
+    font-size:35px;
+}
+nav ul li{
+    display:inline-block;
+    padding:15px 30px 50px 50px;
+}
+style {
+    
+}
+nav{
+    background-color: black;
+    
+    
+}
+#coche{
+    width:900px;
+    height:500px;
+    background-color:white;
+}
+nav ul{
+    margin:0;
+}
+#clasico{
+    width:150px;
+    height:100px;
+}
+#hoy{
+    width: 150px;
+    height: 100px;
+}
+body{
+    background-color: green;
+    
+}
+img {
+    width: 100px;
+    height: 100px;}
+footer{
+    padding: 15px;
+    display:inline-block;
+    text-align: center;
+}
+  
+aside{
+    width: 20px;
+    height: 100px;
+    float: right;
+}
+article{
+    float: left;
+    
+}
+aside img{
+    height: 100px;
+    width: 100px;
+}
+#subast{
+    padding:0px;
+    border border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    
+}
+font-size{
+    height:  100px;
+}
