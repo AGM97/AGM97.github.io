@@ -1206,3 +1206,10 @@ p.at-in {
   left: 6%;
 }
 }
+
+.cosa {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-left: 10px;
+	font-family: 'impact'; color: #236167
+}
