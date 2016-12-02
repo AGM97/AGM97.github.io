@@ -1211,5 +1211,6 @@ p.at-in {
 	margin-left: 100px;
 	margin-right: 100px;
 	padding-left: 10px;
-	font-family: 'impact'; color: #236167
+	font-family: 'impact'; color: #FFFF52;
+	border-color: 'green'
 }
