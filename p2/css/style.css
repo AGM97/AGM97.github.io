@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
  body{
 	font-family: 'Roboto', sans-serif;
-	background:url(../images/body_bg.png);
+	background:url(../images/cielo_simpsons.jpg);
 }
 body a{
 	transition: 0.5s all;
@@ -42,10 +42,10 @@ h1,h2,h3,h4,h5,h6,label,p{
 	float:left;
 	padding:2em;
 	border-right: 5px solid #030303;
-	background:#B1599B;	
+	background: #EBBA02;	
 }
 .header-bottom{
-	background:url(../images/pattern.png);
+	background:url(../images/body_bg.png);
 	padding:0 20px;
 }
 .top-nav{
@@ -908,11 +908,11 @@ ul.start li a ,ul.start li span{
 }
 @media(max-width:480px){
 .logo {
-  padding: 1.3em;
+  padding: 1em;
   width: 60%;
 }
 .logo img{
-  width: 100%;
+  width: 50%;
 }
 .top-nav ul {
   width: 94%;
@@ -1205,12 +1205,4 @@ p.at-in {
   width: 89%;
   left: 6%;
 }
-}
-
-.cosa {
-	margin-left: 100px;
-	margin-right: 100px;
-	padding-left: 10px;
-	font-family: 'impact'; color: #FFFF52;
-	border-color: 'green'
 }
