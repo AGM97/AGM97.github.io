@@ -116,6 +116,31 @@ h1,h2,h3,h4,h5,h6,label,p{
   background: #1F1F1F;
   padding: 20px 10px;
 }
+
+.content2 li {
+	margin: 20px 0;
+  background: #f7d52e;
+  padding: 20px 10px;
+}
+
+.content2 h1,h2,h5 {
+	margin: 20px 0;
+  background: #2eadf7;
+  padding: 20px 10px;
+}
+
+.content2 p {
+	margin: 20px 0;
+  background: #f7d52e;
+  padding: 20px 10px;
+}
+
+.content2 iframe {
+	margin: 20px 0;
+  background: #f7d52e;
+  padding: 20px 10px;
+}
+
 .content-top-grid h3{
 	font-size:2.5em;
 	color:#fff;
@@ -1204,5 +1229,13 @@ p.at-in {
 .top-nav ul {
   width: 89%;
   left: 6%;
+}
+
+div .cosa {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-left: 10px;
+	font-family: 'impact'; color: #FFFF52;
+	border-color: 'green'
 }
 }
