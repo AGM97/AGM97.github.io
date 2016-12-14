@@ -8,5 +8,5 @@
 | Daniel Hernández | single.html & contact.html | Pequeño ayudante que hizo cosas en la sombra |
 | Alvaro Francisco Juan   | about.html     | Pareció un fantasma pero hizo bastantes cosas je.   |
 
-*Nacho si nos apruebas te subo a Oro o sino.. Homer te hace ***PUM*** *
+*Nacho si nos apruebas te subo a Oro o sino.. Homer te hace ***PUM***
 ![Imagen de Simpsons](http://artescritorio.com/wp-content/uploads/2012/09/wallpaper-1968271.jpg 'Imagen de Simpsons')
