@@ -118,26 +118,27 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 
 .content2 li {
-	margin: 20px 0;
   background: #f7d52e;
-  padding: 20px 10px;
+  font-family: "Comic Sans MS";
+  font-size: 15px;
+  padding: 10px 10px;
 }
 
 .content2 h1,h2,h5 {
-	margin: 20px 0;
+  margin: 20px 0;
   background: #2eadf7;
   padding: 20px 10px;
 }
 
 .content2 p {
-	margin: 20px 0;
+  margin: 20px 0;
   background: #f7d52e;
   padding: 20px 10px;
 }
 
 .content2 iframe {
-	margin: 20px 0;
-  background: #f7d52e;
+
+  background-image: url(../images/simp.jpg);
   padding: 20px 10px;
 }
 
