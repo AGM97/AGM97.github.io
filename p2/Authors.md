@@ -11,4 +11,4 @@
 
 ![Imagen de Simpsons](http://artescritorio.com/wp-content/uploads/2012/09/wallpaper-1968271.jpg 'Imagen de Simpsons')
 
-*Nacho si nos apruebas te subo a Oro*
+*Nacho si nos apruebas te subo a Oro o sino.. Homer te hace **PUM***
