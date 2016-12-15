@@ -112,7 +112,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 /*----*/
 .content {
   margin: 20px 0;
-  background: #1F1F1F;
+  background: rgba(31, 31, 31, 0.81);
   padding: 20px 10px;
 }
 
@@ -690,7 +690,7 @@ p.at-in{
 }
 /*--footer--*/
  .footer{
-	background:#1F1F1F;
+	background:rgba(31, 31, 31, 0.9);
 	padding:25px 10px;
  }
 .amet-sed h4,.amet-in h4{
