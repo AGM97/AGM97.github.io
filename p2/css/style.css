@@ -40,8 +40,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .logo{
 	float:left;
-	padding:2em;
-	border-right: 5px solid #030303;
+	padding:1em;
 	background: #EBBA02;	
 }
 .header-bottom{
