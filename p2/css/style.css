@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 .logo{
 	float:left;
 	padding:1em;
-	background: #EBBA02;	
+	background: rgb(255, 244, 0);	
 }
 .header-bottom{
 	background:url(../images/simp.jpg);
